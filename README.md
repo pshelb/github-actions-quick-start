@@ -1,2 +1,2 @@
-# github-quick-start
+# github-actions-quick-start
 https://docs.github.com/en/actions/quickstart
